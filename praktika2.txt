@@ -73,7 +73,7 @@ cp May-1987.txt June-1987.txt
 cp April-1987.txt May-1987.txt
 cp March-1987.txt April-1987.txt
 cp February-1987.txt March-1987.txt
-echo "January-1987.txt" > February-1987.txt
+echo "January" > February-1987.txt
 
 cd Seasons/
 
